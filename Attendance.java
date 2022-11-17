@@ -3,7 +3,6 @@ public class Attendance {
         int a =10;
         int b=200;
         int c=80;
-        System.out.println(c);
         System.out.println("Hello");
         System.out.println("Bye");
     }
