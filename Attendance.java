@@ -5,7 +5,6 @@ public class Attendance {
         int c=80;
         int d=100;
         System.out.println(c);
-        System.out.println("Hello");
-        System.out.println("Bye");
+
     }
 }
